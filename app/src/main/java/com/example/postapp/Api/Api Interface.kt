@@ -1,4 +1,4 @@
 package com.example.postapp.Api
 
-interface `Api Interface` {
+interface `Api Interface`git add {
 }
